@@ -1,5 +1,5 @@
 
-NBA Salary Prediction 
+**NBA Salary Prediction**
 
 Introduction
 
